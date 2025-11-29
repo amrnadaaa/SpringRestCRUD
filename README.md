@@ -14,7 +14,7 @@ The project also includes **unit tests** written using **JUnit 5** and **Mockito
 - **Global Exception Handling**
 - **JUnit 5**
 - **Mockito**
-- **Lombok** *(optional)*
+- **Lombok**
 
 ---
 
